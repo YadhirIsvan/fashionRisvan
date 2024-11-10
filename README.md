@@ -1,10 +1,10 @@
-# Shopping Fashion
+# fashionRisvan
 
-¡Bienvenido a **Shopping Fashion**! Este proyecto de e-commerce de moda está diseñado para ofrecer una experiencia de compra en línea intuitiva y estilizada.
+¡Bienvenido a **fashionRisvan**! Este proyecto de e-commerce de moda está diseñado para ofrecer una experiencia de compra en línea intuitiva y estilizada.
 
 ## Descripción
 
-**Shopping Fashion** es una aplicación de e-commerce para moda que permite a los usuarios explorar una amplia gama de productos de moda, añadirlos al carrito, y proceder a la compra con una interfaz fácil de usar y moderna. Este proyecto está desarrollado con React y presenta una estructura optimizada y modular para fácil escalabilidad.
+**fashionRisvan** es una aplicación de e-commerce para moda que permite a los usuarios explorar una amplia gama de productos de moda, añadirlos al carrito, y proceder a la compra con una interfaz fácil de usar y moderna. Este proyecto está desarrollado con React y presenta una estructura optimizada y modular para fácil escalabilidad.
 
 ## Funcionalidades
 
@@ -28,8 +28,8 @@ Para ejecutar el proyecto en tu entorno local, sigue estos pasos:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/shopping-fashion.git
-   cd shopping-fashion
+   git https://github.com/YadhirIsvan/fashionRisvan.git
+   cd fashionRisvan
    npm install
    npm run dev
 
